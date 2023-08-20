@@ -1,10 +1,9 @@
-import '@/App.css'
+import '@/styles/globals.css'
 
 function App() {
   return (
     <>
-      <h1>Vite + React</h1>
-      <div className="card"></div>
+      <h1 className="text-7xl">Vite + React + TypeScript + Tailwind CSS</h1>
     </>
   )
 }
